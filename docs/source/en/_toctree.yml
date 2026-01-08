@@ -228,10 +228,12 @@
   title: Quantization
 - isExpanded: false
   sections:
-  - local: community_integrations/vllm
-    title: vLLM
   - local: community_integrations/sglang
     title: SGLang
+  - local: community_integrations/tensorrt-llm
+    title: TensorRT-LLM
+  - local: community_integrations/vllm
+    title: vLLM
   - local: community_integrations/transformers_as_backend
     title: Building a compatible model backend for inference
   title: Community integrations
