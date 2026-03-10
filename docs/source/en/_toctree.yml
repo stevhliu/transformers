@@ -159,7 +159,7 @@
     - local: hpo_train
       title: Hyperparameter search
     - local: trainer_recipes
-      title: Trainer recipes
+      title: Trainer features
     title: Customization
   - isExpanded: false
     sections:
